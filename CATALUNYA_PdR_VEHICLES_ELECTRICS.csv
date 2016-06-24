@@ -1,0 +1,438 @@
+PROMOTOR-GESTOR;ACCES;TIPUS VELOCITAT;TIPUS CONNEXIÓ;LATITUD;LONGITUD;IDENTIFICADOR;DESIGNACIÓ-DESCRIPTIVA;IDE PDR;ADREÇA;PROVINCIA;CODIPROV;MUNICIPI;CODIINE;NPLACES ESTACIÓ;TIPUS VEHICLE;TELEFON;HORARI;INFORMACIÓ ADICIONAL
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;Schuko;41.401478; 2.156578; 08-0193-001 ;B:SM 56 - Plaça del Sol;BAMSA001;Plaça del Sol, 5;Barcelona;08;Barcelona;0193;1;cotxe;;;
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;Schuko;41.398969;2.153493; 08-0193-002 ;B:SM 57 - Plaça Gal·la Placídia;BAMSA002;Plaça de Gal·la Placídia, 2;Barcelona;08;Barcelona;0193;1;cotxe;;;
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;Schuko;41.379559;2.162010; 08-0193-003 ;B:SM 46 - Urgell;BAMSA003;Carrer del Comte d'Urgell, 14;Barcelona;08;Barcelona;0193;1;cotxe;;;
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;Schuko;41.385654;2.177128; 08-0193-004 ;B:SM 51 - Mercat Santa Caterina;BAMSA004;Avinguda  de Francesc Cambó, 10;Barcelona;08;Barcelona;0193;3;cotxe o moto;;;
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;Schuko;41.382126174;2.168188081; 08-0193-005 ;B:SM 50 - Plaça dels Àngels;BAMSA005;Carrer dels Àngels, 1;Barcelona;08;Barcelona;0193;3;cotxe o moto;93.441.05.04;;
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;Schuko;41.379272;2.169613; 08-0193-006 ;B:SM 49 - Sant Rafael;BAMSA006;Carrer de Sant Rafael, 15;Barcelona;08;Barcelona;0193;4;cotxe;;;
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;Schuko;41.375320;2.169709; 08-0193-007 ;B:SM 48 - Plaça Raquel Meyer - Paral·lel;BAMSA007;Carrer de l'Abat Safont, 2;Barcelona;08;Barcelona;0193;1;cotxe;;;
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;Schuko;41.383144;2.150551; 08-0193-008 ;B:SM 55 -  Calàbria-València;BAMSA008;Carrer de València,77 - Carrer de Calàbria, 182;Barcelona;08;Barcelona;0193;1;cotxe;;;
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;Schuko;41.390085;2.143525; 08-0193-009 ;B:SM 58 - Tarradelles-Sarrià;BAMSA009;Avinguda  de Josep Tarradellas, 139;Barcelona;08;Barcelona;0193;1;cotxe;;;
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;Schuko;41.401794;2.160702; 08-0193-010 ;B:SM 47 - Siracusa;BAMSA010;Carrer de Siracusa, 39 - 51;Barcelona;08;Barcelona;0193;1;cotxe;;;
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;Schuko;41.379936;2.189115; 08-0193-011 ;B:SM 59- Barceloneta Centre;BAMSA011;Carrer Escuder, 1;Barcelona;08;Barcelona;0193;1;cotxe;;;
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;Schuko;41.374588;2.142870; 08-0193-012 ;B:SM 45 - Vilardell;BAMSA012;Carrer de Vilardell, 20;Barcelona;08;Barcelona;0193;1;cotxe;;;
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;Schuko;41.385727;2.142850; 08-0193-013 ;B:SM 52 - Tarradelles-Entença;BAMSA013;Avinguda  de Josep Tarradellas, 64;Barcelona;08;Barcelona;0193;1;cotxe;;;
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;Schuko;41.384087;2.142749; 08-0193-014 ;B:SM 44 - Tarradelles-Nicaragua;BAMSA014;Avinguda  de Josep Tarradellas, 46;Barcelona;08;Barcelona;0193;1;cotxe;;;
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;Schuko;41.391087;2.147544; 08-0193-015 ;B:SM 53 - Londres;BAMSA015;Carrer de Londres, 55;Barcelona;08;Barcelona;0193;1;cotxe;;;
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.3815475;2.1701660999999604; 08-0193-017 ;B:SM 5 - Boqueria;BSM001;Carrer de les Floristes de la Rambla-Plaça Gardunya 8S;Barcelona;08;Barcelona;0193;9;cotxe;93.302.87.45;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-01/laboqueria-cat.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.407211;2.151497; 08-0193-018 ;B:SM 39 - Torrent de l'Olla;BSM002;Carrer del Torrent de l'Olla, 221;Barcelona;08;Barcelona;0193;3;cotxe;93.218.09.42;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-04/torrent-de-lolla-2003-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.401408;2.133986; 08-0193-019 ;B:SM 12 - Ferran Casablancas;BSM003;Carrer de Josep Balari, 9;Barcelona;08;Barcelona;0193;3+1;cotxe i moto;93.417.93.56;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-02/ferran-casablancas-2015-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.389954;2.128284; 08-0193-020 ;B:SM 11 - Flos i Calcat;BSM004;Carrer de Flos i Calcat, 2;Barcelona;08;Barcelona;0193;3+1;cotxe i moto;93.205.22.60;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-02/flos-i-calcat-2025-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.406731;2.133691; 08-0193-021 ;B:SM 27 - Plaça Bonanova;BSM005;Plaça de la Bonanova, 12;Barcelona;08;Barcelona;0193;3+1;cotxe i moto;93.418.93.85;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-03/pl-bonanova-2042-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.411148;2.174359; 08-0193-022 ;B:SM 2 - Avinguda Gaudí;BSM006; Carrer dels Castillejos, 330 (E1), Carrer de Cartagena, 319 (E2);Barcelona;08;Barcelona;0193;3+1;cotxe i moto;93.435.17.46;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-01/avinguda-gaudi.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.384186;2.122279; 08-0193-023 ;B:SM 38 - Tanatori Les Corts;BSM007;Avinguda  de Joan XXIII, 23 - 25;Barcelona;08;Barcelona;0193;2+2;cotxe i moto;93.339.72.16;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-04/tanatori-les-corts-2311-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.372120;2.156625; 08-0193-024 ;B:SM 7 - Ciutat del Teatre;BSM008;Carrer de la França Xica, 35;Barcelona;08;Barcelona;0193;3;cotxe;93.424.61.60;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-01/ciutat-del-teatre.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.426834;2.184219; 08-0193-025 ;B:SM 8 - Concepció Arenal;BSM009;Carrer de Concepción Arenal, 156;Barcelona;08;Barcelona;0193;3+1;cotxe i moto;93.340.60.95;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-01/concepcio-arenal.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.380864;2.183077; 08-0193-026 ;B:SM 23 - Moll de la Fusta;BSM010;Carrer de l'Ictineu;Barcelona;08;Barcelona;0193;4+1;cotxe i moto;93.221.50.15;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-03/moll-de-la-fusta-2004-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.402470;2.204062; 08-0193-027 ;B:SM 4 - Bilbao-Llull;BSM011;Carrer de Bilbao, 24;Barcelona;08;Barcelona;0193;3+1;cotxe i moto;93.309.77.55;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-01/bilbao-llull-2019.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.4067;2.2184; 08-0193-028 ;B:SM 13 - García Fària;BSM012;Passeig de Garcia Fària, 71;Barcelona;08;Barcelona;0193;2;cotxe;93.356.09.17;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-02/garcia-faria2406-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.386972;2.197056; 08-0193-029 ;B:SM 19 - Marina Port;BSM013;Carrer de la Marina, 13-17;Barcelona;08;Barcelona;0193;7+2;cotxe i moto;93.221.00.14;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-02/marina-port-2022-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.394238;2.181891; 08-0193-030 ;B:SM 10 - Estació Barcelona-Nord;BSM014;Carrer d'Alí Bei, 54;Barcelona;08;Barcelona;0193;4+4;cotxe i moto;93.265.81.64;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-01/estacio-barcelona-nord.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.394009;2.115265; 08-0193-031 ;B:SM 20 - Marques de Mulhacen;BSM015;Carrer de Marquès de Mulhacén, 49-51;Barcelona;08;Barcelona;0193;6+2;cotxe i moto;93.205.02.09;;
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.372299;2.153134; 08-0193-032 ;B:SM 35 - Rius i Taulet;BSM016;Avinguda  de Rius i Taulet, 4-12;Barcelona;08;Barcelona;0193;3+3;cotxe i moto;93.423.53.61;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-04/rius-i-taulet-2000-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.3885;2.1983; 08-0193-033 ;B:SM 17 - Litoral Port;BSM017;Avinguda  del Litoral, 34;Barcelona;08;Barcelona;0193;3;cotxe;93.409.20.21;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-02/litoral-port-2023-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.4053;2.1429; 08-0193-034 ;B:SM 22 - Mitre Putxet;BSM018;Ronda General Mitre, 203;Barcelona;08;Barcelona;0193;2;cotxe;93.212.13.43;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-03/mitre-putxet-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.4274;2.1772; 08-0193-035 ;B:SM 16 - Illa Borbó;BSM019;Carrer de Ramon Albó ,77;Barcelona;08;Barcelona;0193;1+1;cotxe i moto;93.408.56.44;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-02/illaborbo2036.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.40316547542533;2.189422845840454; 08-0193-036 ;B:SM 3 - Badajoz -Glòries;BSM020;Carrer de Badajoz, 168;Barcelona;08;Barcelona;0193;3+2;cotxe i moto;93.328.49.49;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-01/badajozglories.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.405746;2.162722; 08-0193-037 ;B:SM 28 - Plaça Joanic;BSM021;Carrer de l'Escorial, 1 - Pl. Joanic, 1;Barcelona;08;Barcelona;0193;3+1;cotxe i moto;93.284.63.45;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-03/pl-joanic-2040-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.442055;2.177675; 08-0193-038 ;B:SM 31 - Plaça Francesc Layret;BSM022;Via Júlia, 95;Barcelona;08;Barcelona;0193;3+1;cotxe i moto;93.359.39.56;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-04/francesc-layret-2046-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.399815;2.123474; 08-0193-039 ;B:SM 32 - Porta de Sarrià;BSM023;Carrer de Salvador Mundí, 17;Barcelona;08;Barcelona;0193;2+1;cotxe i moto;93.280.17.52;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-04/porta-de-sarria-2050-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.430428;2.187965; 08-0193-040 ;B:SM 36 - Sant Andreu Teatre;BSM024;Carrer de les Monges, 2;Barcelona;08;Barcelona;0193;2+1;cotxe i moto;93.311.49.01;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-04/sant-andreu-teatre-sat-2051-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.4092;2.1681; 08-0193-041 ;B:SM 18 - Marina Gracia;BSM025;Carrer de la Marina, 345;Barcelona;08;Barcelona;0193;4+2;cotxe i moto;93.450.04.49;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-02/marina-gracia-2027-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.385662;2.193913; 08-0193-042 ;B:SM 25 - P.R.Biomèdica;BSM026;Carrer del Doctor Aiguader, 88;Barcelona;08;Barcelona;0193;5+2;cotxe i moto;93.409.20.21;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-03/p-r-biomedica-2030-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.413015;2.221156; 08-0193-043 ;B:SM 30 - Plaça del Fòrum ;BSM027;Carrer del Camp de la Bota 4C, - Plaça Ernest Narcís i Roca;Barcelona;08;Barcelona;0193;4+2;cotxe i moto;93.356.11.99;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-03/pl-forum-2033-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.416515;2.180421; 08-0193-044 ;B:SM 26 - Pg. Maragall (C.A.P.);BSM028;Passeig  de Maragall, 54;Barcelona;08;Barcelona;0193;4+2;cotxe i moto;93.435.10.39;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-03/maragall-2039-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.392246;2.128751; 08-0193-045 ;B:SM 9 - Cotxeres de Sarrià;BSM029;Passeig de Manuel Girona, 77;Barcelona;08;Barcelona;0193;4+2;cotxe i moto;93.280.27.40;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-01/cotxeres-de-sarria.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.396853;2.126718; 08-0193-046 ;B:SM 6 -  Cardenal Sentmenat - Vergós;BSM030;Carrer del Cardenal de Sentmenat, 8 ;Barcelona;08;Barcelona;0193;3+3;cotxe i moto;93.280.20.18;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-01/cardenal-sentmenat-vergos-2009-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.382737;2.194412; 08-0193-047 ;B:SM 15 - Hospital del Mar;BSM031;Passeig  Marítim de la Barceloneta, 23-31;Barcelona;08;Barcelona;0193;6+3;cotxe i moto;93.221.05.00;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-02/hospital-del-mar-2020-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.399536;2.185355; 08-0193-048 ;B:SM 29 - Plaça de les Arts - TNC;BSM032;Carrer de Padilla, 159;Barcelona;08;Barcelona;0193;4+2;cotxe i moto;93.245.10.93;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-03/pl-de-les-arts-2028-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.3744;2.1597; 08-0193-049 ;B:SM 33 - Plaça Navas;BSM033;Carrer de Jaume Fabra, 12;Barcelona;08;Barcelona;0193;3+2;cotxe i moto;93.329.94.74;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-04/placanavases.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.449138;2.190748; 08-0193-050 ;B:SM 41 - Galicia;BSM034;Carrer de Galicia, 16;Barcelona;08;Barcelona;0193;2;cotxe;;;
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.459612;2.175628; 08-0193-051 ;B:SM 42 - Ciutat Meridiana;BSM035;Carrer dels Rasos de Peguera, 51 S;Barcelona;08;Barcelona;0193;3;cotxe o moto;;;
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;MENNEKES.F+Schuko;41.4033;2.152327; 08-0193-052 ;B:SM 14 - Gràcia motos;BSM036;Carrer Gran de Gràcia, 190;Barcelona;08;Barcelona;0193;2;moto;93.415.57.53;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-02/gracia-motos-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;Schuko;41.4047;2.1896; 08-0193-053 ;B:SM 24 - Ona Glòries;BSM037;Carrer de la Ciutat de Granada, 173-175;Barcelona;08;Barcelona;0193;4;cotxe;93.309.23.45;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-03/ona-glories-2026-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;Schuko;41.4044;2.1972; 08-0193-054 ;B:SM 34 - Rambla Poblenou;BSM038;Rambla del Poblenou, 130;Barcelona;08;Barcelona;0193;3;cotxe;93.309.42.79;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-04/ramblapoblenou2053es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;Schuko; 41.388797 ;2.192651; 08-0193-016 ;B:SM 40 - Wellington - Zoo;BSM039;Carrer de Ramon Trias Fargas, 19;Barcelona;08;Barcelona;0193;1;cotxe;93.225.96.89;7:30-21:30h;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-04/wellington-zoo-2405-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;Schuko;41.420770;2.151564; 08-0193-055 ;B:SM 43 - Salvador Allende;BSM040;Plaça de Salvador Allende;Barcelona;08;Barcelona;0193;4;cotxe;;;
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;Schuko;41.426239;2.143323; 08-0193-056 ;B:SM 37 - Sant Genís Vall d'Hebrón;BSM041;Passeig de la Vall d'Hebrón, 138-176;Barcelona;08;Barcelona;0193;1;cotxe;93.428.44.03;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-04/sant-genis-vall-dhebron-2034-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;Schuko;41.404900;2.177290; 08-0193-057 ;B:SM 21 - Mercat Sagrada Família;BSM042;Carrer de Mallorca, 425-433;Barcelona;08;Barcelona;0193;1;cotxe;93.436.51.55;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-03/mercat-sagrada-familia-2307-es.html
+B:SM Serveis Municipals;APARCAMENT PUBLIC ;NORMAL;Schuko;41.403202;2.196150; 08-0193-058 ;B:SM 1 - Almogàvers-Llacuna;BSM043;Carrer de la Llacuna, 101, Carrer de Sancho d'Àvila, 72;Barcelona;08;Barcelona;0193;1;cotxe;93.309.38.76;;http://www.aparcamentsbsm.cat/index.php/fichas-xarxa-01/almogavers-llacuna-2308-es.html
+GAICU;VIA PUBLICA ;RAPID; CCS Combo2+ChadeMO+MENNEKES.M ;41.39347;2.20446; 08-0193-059 ;EdRR-Vil·la Olimpica-ES Repsol-McDonald's (DC50kW AC43kW);FC001;Avinguda del Litoral,49,  Sortida 23- Carrer de Badajoz;Barcelona;08;Barcelona;0193;1;cotxe;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+GAICU;VIA PUBLICA ;RAPID; CCS Combo2+ChadeMO+MENNEKES.M ;41.401313;2.122488; 08-0194-154 ;EdRR-Via Augusta-Bonanova (DC50kW AC43kW);FC002;Via Augusta, 352;Barcelona;08;Barcelona;0194;1;cotxe;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+GAICU;VIA PUBLICA ;RAPID; CCS Combo2+ChadeMO+MENNEKES.M ;41.43101;2.18339; 08-0193-060 ;EdRR-Estació Sants, Ap. Zona Autobusos (DC50kW AC43kW);FC003;Carrer Viriat, 5-23;Barcelona;08;Barcelona;0193;1;cotxe;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+GAICU;VIA PUBLICA ;RAPID; CCS Combo2+ChadeMO+MENNEKES.M ;41.415125;2.136311; 08-0193-061 ;EdRR-Alfons Comín-Vallcarca (DC50kW AC43kW) ;FC004;Plaça Alfons Comín, 12- Isaac Newton;Barcelona;08;Barcelona;0193;1;cotxe;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+GAICU;VIA PUBLICA ;RAPID; CCS Combo2+ChadeMO+MENNEKES.M ;41.40646;2.15223; 08-0193-062 ;EdRR-Torrent de l'Olla (DC50kW AC43kW);FC005;Carrer Torrent de l'Olla, 203;Barcelona;08;Barcelona;0193;1;cotxe;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+GAICU;VIA PUBLICA ;RAPID; CCS Combo2+ChadeMO+MENNEKES.M ;41.44128;2.16499; 08-0193-063 ;EdRR-Mercat Canyelles-Rda Dalt (DC50kW AC43kW);FC006;Via Favència, 21;Barcelona;08;Barcelona;0193;1;cotxe;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+GAICU;VIA PUBLICA ;RAPID; CCS Combo2+ChadeMO+MENNEKES.M ;41.414478;2.172243; 08-0193-064 ;EdRR-Mas Casanova - H Sant Pau (DC50kW AC43kW);FC007;Carrer de Mas Casanova, 69;Barcelona;08;Barcelona;0193;1;cotxe;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+GAICU;VIA PUBLICA ;RAPID; CCS Combo2+ChadeMO+MENNEKES.M ;41.414478;2.183459; 08-0193-065 ;EdRR-Meridiana-Estació BUS (DC50kW AC43kW);FC008;Avinguda Meridiana, 400E;Barcelona;08;Barcelona;0193;1;cotxe;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+GAICU;VIA PUBLICA ;RAPID; CCS Combo2+ChadeMO+MENNEKES.M ;41.404770;2.174794; 08-0193-066 ;EdRR-Sagrada Família-Provença -KFC (DC50kW AC43kW);FC009;Carrer Provença, 447;Barcelona;08;Barcelona;0193;1;cotxe;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+BIMSA;VIA PUBLICA;RAPID; CCS Combo2+ChadeMO+MENNEKES.M ;41.388226;2.169769; 08-0193-067 ;EdRR-Passeig de Gràcia-Casp (DC50kW AC43kW);FC010;Passeig de Gràcia, 3;Barcelona;08;Barcelona;0193;1;cotxe;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+BIMSA;VIA PUBLICA;RAPID; CCS Combo2+ChadeMO+MENNEKES.M ;41.374847;2.171055; 08-0193-155 ;EdRR-Seu Endesa REE-TRYP APOLO  (DC50kW AC43kW);FC011;Avinguda  Paral·lel, 55;Barcelona;08;Barcelona;0193;1;cotxe;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+BIMSA;VIA PUBLICA;RAPID; CCS Combo2+ChadeMO+MENNEKES.M ;41.393773;2.149196; 08-0193-156 ;EdRR-Diagonal Aribau  (DC50kW AC43kW);FC012;Avinguda Diagonal, 445-447;Barcelona;08;Barcelona;0193;1;cotxe;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+MERCABARNA;VIA PUBLICA;FORA DE SERVEI;CCS Combo2+ChadeMO+MENNEKES.M;41.331131;2.115544; 08-0193-170 ;EdRR- Mercabarna (DC50kW AC43kW);FC013;Aparcament Mercabarna;Barcelona;08;Barcelona;0193;1;cotxe;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+GAICU;VIA PUBLICA;FORA DE SERVEI;CCS Combo2+ChadeMO+MENNEKES.M;41.383084;2.182858; 08-0193-171 ;EdRR-Pla de Palau  (DC50kW AC43kW);FC014;Pla de Palau, 4;Barcelona;08;Barcelona;0193;1;cotxe;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+GAICU;VIA PUBLICA;FORA DE SERVEI;CCS Combo2+ChadeMO+MENNEKES.M;41.432965;2.203728; 08-0193-172 ;"EdRR-URBASER Fra Juniper Serra (DC50kW AC43kW)
+";FC015;Fra Juniper Serra,  59;Barcelona;08;Barcelona;0193;1;cotxe;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+Endesa;VIA PUBLICA;NORMAL;Schuko;41.381420709493625 ;2.1819696575403214; 08-0193-068 ;19 AjBCN-Endesa-Correus-Via Laietana;LC001;Plaça Antoni Lòpez,  s/n;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+AEB;VIA PUBLICA -VORERA;NORMAL;Schuko;41.38206874078276;2.1916725486516953; 08-0193-069 ;87 AjBCN-ETRA COBRA (Vorera Associació SEBA);LC002;Passeig de Salvat Papasseit, 15 - Carrer Ginebra;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+Endesa;VIA PUBLICA;NORMAL;Schuko;41.393948;2.156007; 08-0193-070 ;22 AjBCN-Endesa;LC003;Carrer de Còrsega, 264;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+Endesa;VIA PUBLICA;NORMAL;Schuko;41.402999497099266;2.165665850043297; 08-0193-071 ;12 AjBCN-Endesa;LC004;Carrer Indústria, 19 - Passeig de Sant Joan;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+AEB;VIA PUBLICA;NORMAL;Schuko;41.396236;2.182190; 08-0193-072 ;91 AjBCN-ETRA COBRA;LC005;Carrer d'Ausiàs March, 118;Barcelona;08;Barcelona;0193;2;cotxe i moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+Endesa;VIA PUBLICA;NORMAL;Schuko;41.387074;2.171420; 08-0193-073 ;23 AjBCN-Endesa Fontanella-Pl.Catalunya;LC006;Carrer de Fontanella, 1;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+AEB;VIA PUBLICA;NORMAL;Schuko;41.394226;2.169715; 08-0193-074 ;88 AjBCN-ETRA COBRA Bruc-Consell de Cent;LC007;Carrer del Bruc, 84;Barcelona;08;Barcelona;0193;2;cotxe i moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+Endesa;VIA PUBLICA;NORMAL;Schuko;41.38925538477269;2.1613210067152977; 08-0193-075 ;28 AjBCN-Endesa-Aragó-Pl.Letamendi;LC008;Plaça del Dr. Letamendi, 30-33;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+AEB;VIA PUBLICA;NORMAL;Schuko;41.359982;2.133193; 08-0193-076 ;89 AjBCN-ETRA-COBRA;LC009;Carretera del Prat, 42;Barcelona;08;Barcelona;0193;2;cotxe i moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+Endesa;VIA PUBLICA;NORMAL;Schuko;41.380928;2.142103; 08-0193-077 ;25 AjBCN-Endesa-Sants;LC010;Avinguda  de Josep Tarradellas, 1;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+AEB;VIA PUBLICA;NORMAL;Schuko;41.381355;2.129424; 08-0193-078 ;90 AjBCN-ETRA-COBRA Figols, Jardins Drs.Dolsa;LC011;Carrer de Fígols, 6;Barcelona;08;Barcelona;0193;2;cotxe i moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+Endesa;VIA PUBLICA;NORMAL;Schuko;41.407269;2.138413; 08-0193-079 ;16 AjBCN-Endesa;LC012;Carrer de Balmes,422 - Carrer de Castanyer;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+Endesa;VIA PUBLICA;NORMAL;Schuko;41.392296; 2.132156; 08-0193-080 ;15 AjBCN-Endesa Sarrià-Ricard Villa;LC013;Avinguda  de Sarrià, 130;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+AEB;VIA PUBLICA;NORMAL;Schuko;41.394203;2.123794; 08-0193-081 ;93 AjBCN-ETRA-COBRA;LC014;Carrer d'Osi, 4;Barcelona;08;Barcelona;0193;2;cotxe i moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+Endesa;VIA PUBLICA;NORMAL;Schuko;41.413960;2.142913; 08-0193-082 ;01 AjBCN-Endesa-Clinica Delfos;LC015;Avinguda de Vallcarca, 154;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+AEB;VIA PUBLICA;NORMAL;Schuko;41.406525;2.152333; 08-0193-083 ;92 AjBCN-ETRA COBRA  Torrent de l'Olla;LC016;Carrer del Torrent de l'Olla, 222;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+Endesa;VIA PUBLICA;NORMAL;Schuko;41.444744;2.174166; 08-0193-084 ;04 AjBCN-Endesa;LC017;Via Favència, 169 - Almansa;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+Endesa;VIA PUBLICA;NORMAL;Schuko;41.43888220469643;2.1813661605119705; 08-0193-085 ;09 AjBCN-Endesa;LC018;Carrer Rio de Janeiro, 81 - Passeig Valldaura;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+Endesa;VIA PUBLICA;NORMAL;Schuko;41.423615;2.179456; 08-0193-086 ;11 AjBCN-Endesa Garcilaso;LC019;Carrer de Garcilaso, 204;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+AEB;VIA PUBLICA;NORMAL;Schuko;41.420052;2.181559; 08-0193-087 ;95 AjBCN-ETRA-COBRA Maragall-Olesa;LC020;Plaça de Maragall, 21;Barcelona;08;Barcelona;0193;2;cotxe i moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+Endesa;VIA PUBLICA;NORMAL;Schuko;41.408447;2.202893; 08-0193-088 ;08 AjBCN-Endesa;LC021;Carrer de Cristóbal de Moura,24 - Carrer de Bac de Roda;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+Endesa;VIA PUBLICA;NORMAL;Schuko;41.41161975311658;2.2185080498456955; 08-0193-089 ;06 AjBCN-Endesa-Forum-RamblaPrim;LC022;Rambla de Prim, 19;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+Endesa;VIA PUBLICA;NORMAL;Schuko;41.4200135;2.20166990000007; 08-0193-090 ;10 AjBCN-Endesa Guipúscoa;LC023;Rambla de Guipúscoa, 103-105;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+22@;VIA PUBLICA;NORMAL;Schuko;41.396897;2.200017; 08-0193-091 ;29 AjBCN-22@ Ciutat de Granada;LC024;Carrer de la Ciutat de Granada, 17;Barcelona;08;Barcelona;0193;1;cotxe i moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+22@;VIA PUBLICA;NORMAL;Schuko;41.396934;2.199915; 09-0193-092 ;30 AjBCN-22@ Ciutat de Granada;LC025;Carrer de la Ciutat de Granada, 19;Barcelona;09;Barcelona;0193;1;cotxe i moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+Endesa;VIA PUBLICA;NORMAL;Schuko;41.37533580948218;2.130439728498459; 08-0193-093 ;18 AjBCN-Endesa;LC026;Rambla Badal, 165 - Carrer de Sants;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+Endesa;VIA PUBLICA;NORMAL;Schuko;41.374847;2.171055; 08-0193-094 ;27 AjBCN-Endesa REE-TRYP APOLO;LC027;Avinguda  Paral·lel, 55;Barcelona;08;Barcelona;0193;2;cotxe i moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+Endesa;VIA PUBLICA;DESMANTELLADA;Schuko;41.37793880565255;2.1211542561650276; 08-0193-095 ;17 AjBCN-Endesa;LC028;Aristides Maillol,1 - Travessera de les Corts;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+Endesa;VIA PUBLICA;NORMAL;Schuko;41.388088;2.107004; 08-0193-096 ;21 AjBCN-Endesa;LC029;Carretera d'Esplugues, 52 - Carrer Eduard Toldra;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+Endesa;VIA PUBLICA;NORMAL;Schuko;41.397507;2.119605; 08-0193-097 ;05 AjBCN-Endesa Domínguez Miralles- J.V.Foix;LC030;Avinguda Josep Vicenç Foix, 86;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+Endesa;VIA PUBLICA;NORMAL;Schuko;41.429535;2.158481; 08-0193-098 ;02 AjBCN-Endesa;LC031;Carrer de Lisboa, 7-11;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+Endesa;VIA PUBLICA;NORMAL;Schuko;41.434910;2.148409; 08-0193-099 ;03 AjBCN-Endesa Vall d'Hebron;LC032;Arquitecte Moragas,31 - Avinguda  Can Marcet,36;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+Endesa;VIA PUBLICA;NORMAL;Schuko;41.442436;2.197319; 08-0193-100 ;07 AjBCN-Endesa La Maquinista;LC033;Carrer República Dominicana - Carrer de Potosí;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+Endesa;VIA PUBLICA;NORMAL;Schuko;41.390945;2.196515; 08-0193-101 ;13 AjBCN-Endesa;LC034;Avinguda  d'Icària, 145 - Carrer de Rosa Censat, 14;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+IBERDROLA SERVICIOS ENERGETICOS, SAU;VIA PUBLICA;DESMANTELLADA;Schuko;41.379547;2.187588; 08-0193-102 ;086 MOBECPOINT- PORT VELL;LC035;Passeig de Joan de Borbó, 22 - Carrer de la Maquinista;Barcelona;08;Barcelona;0193;6;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+IBERDROLA SERVICIOS ENERGETICOS, SAU;VIA PUBLICA;DESMANTELLADA;Schuko;41.385643;2.174869; 08-0193-103 ;XXX MOBECPOINT- PLAÇA DELS PEIXOS;LC036;Carrer Duran i Bas, 9 - Plaça del Peixos,1;Barcelona;08;Barcelona;0193;6;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+IBERDROLA SERVICIOS ENERGETICOS, SAU;VIA PUBLICA;NORMAL;Schuko;41.385166;2.116051; 08-0193-104 ;084 MOBECPOINT-ETSEIB;LC037;Carrer de Pasqual i Vila 22 - Avinguda  Diagonal;Barcelona;08;Barcelona;0193;6;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+IBERDROLA SERVICIOS ENERGETICOS, SAU;VIA PUBLICA;NORMAL;Schuko;41.3954372;2.103586500000006; 08-0193-105 ;108 MOBECPOINT-IESE Pearson;LC038;Avinguda  de Pearson, 19;Barcelona;08;Barcelona;0193;10;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+IBERDROLA SERVICIOS ENERGETICOS, SAU;VIA PUBLICA;NORMAL;Schuko;41.405085;2.207517; 08-0193-106 ;085 MOBECPOINT- SCHNEIDER ELECTRIC;LC039;Carrer de Llull, 285;Barcelona;08;Barcelona;0193;6;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+IBERDROLA SERVICIOS ENERGETICOS, SAU;VIA PUBLICA;NORMAL;Schuko;41.4064;2.2012; 08-0193-107 ;123 MOBECPOINT-Hotel Me;LC040;Carrer de Lope de Vega, 158 - Carrer Pere IV;Barcelona;08;Barcelona;0193;9;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+BIMSA;VIA PUBLICA;NORMAL;Schuko;41.393659;2.148857; 08-0193-159 ;Lateral-Mar Diagonal (Casanova-Muntaner) 1;LC041;Avinguda Diagonal, 449;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+BIMSA;VIA PUBLICA;NORMAL;Schuko;41.393660;2.148858; 08-0193-160 ;Lateral-Mar Diagonal (Casanova-Muntaner) 2;LC042;Avinguda Diagonal, 449;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+BIMSA;VIA PUBLICA;NORMAL;Schuko;41.394501;2.152312; 08-0193-161 ;Lateral-Mar Diagonal (Aribau-Enric Granados) 1;LC043;Avinguda Diagonal, 429;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+BIMSA;VIA PUBLICA;NORMAL;Schuko;41.394502;2.152313; 08-0193-162 ;Lateral-Mar Diagonal (Aribau-Enric Granados) 2;LC044;Avinguda Diagonal, 429;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+BIMSA;VIA PUBLICA;NORMAL;Schuko;41.396281;2.159284; 08-0193-163 ;Lateral-Mar Diagonal (Còrsega) 1;LC045;Avinguda Diagonal, 387;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+BIMSA;VIA PUBLICA;NORMAL;Schuko;41.396282;2.159285; 08-0193-164 ;Lateral-Mar Diagonal (Còrsega) 2;LC046;Avinguda Diagonal, 387;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+BIMSA;VIA PUBLICA;NORMAL;Schuko;41.393227;2.145783; 08-0193-165 ;Lateral-Muntanya Diagonal (Travessera Gràcia) 1;LC047;Avinguda Diagonal, 598;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+BIMSA;VIA PUBLICA;NORMAL;Schuko;41.393228;2.145784; 08-0193-166 ;Lateral-Muntanya Diagonal (Travessera Gràcia) 2;LC048;Avinguda Diagonal, 598;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+BIMSA;VIA PUBLICA;NORMAL;Schuko;41.395304;2.153848; 08-0193-167 ;Lateral-Muntanya Diagonal (Balmes-Tusset) 1;LC049;Avinguda Diagonal, 508-510;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+BIMSA;VIA PUBLICA;NORMAL;Schuko;41.395305;2.153849; 08-0193-168 ;Lateral-Muntanya Diagonal (Balmes-Tusset) 2;LC050;Avinguda Diagonal, 508-510;Barcelona;08;Barcelona;0193;2;moto;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+GAICU;VIA PUBLICA ;semiRAPID i NORMAL;MENNEKES.F+Schuko;41.406037;2.192503; 08-0193-109 ;XX (eDUM)-El Parc i la Llacuna (7.4kW);QC001;Carrer de la Llacuna, 149;Barcelona;08;Barcelona;0193;2;mercaderies;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+GAICU;VIA PUBLICA ;semiRAPID i NORMAL;MENNEKES.F+Schuko;41.433956;2.192101; 08-0193-110 ;94 (eDUM)-Sant Adrià - Pl. Can Fabra (7.4kW);QC002;Carrer de Sant Adrià, 21;Barcelona;08;Barcelona;0193;2;mercaderies;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+GAICU;VIA PUBLICA ;semiRAPID;MENNEKES.F;41.37544422780801;2.1890386193990707; 08-0193-111 ;20 (eTAXI)-Barceloneta - Joan de Borbó (7.4kW);QC003;Passeig Joan de Borbó - Carrer de la Drassana, 1;Barcelona;08;Barcelona;0193;2;taxi;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+GAICU;VIA PUBLICA ;semiRAPID;MENNEKES.F;41.393005;2.146561; 08-0193-112 ;24 (eTAXI)-Villarroel- Diagonal (7.4kW);QC004;Carrer de Villarroel,277-Avinguda  Diagonal;Barcelona;08;Barcelona;0193;2;taxi;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+GAICU;VIA PUBLICA ;semiRAPID;MENNEKES.F;41.406959089343644;2.218313254415989; 08-0193-113 ;96 (eTAXI) -Garcia i Fària - Josep Pla (7.4kW);QC005;Carrer Josep Pla-Passeig Garcia Fària, 87;Barcelona;08;Barcelona;0193;2;taxi;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+GAICU;VIA PUBLICA ;semiRAPID;MENNEKES.F;41.375233;2.151765; 08-0193-114 ;26 (eTAXI)- Llançà - Paral·lel (7.4kW);QC006;Carrer de Llançà, 3 - Avinguda  del Paral·lel ;Barcelona;08;Barcelona;0193;2;taxi;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+BIMSA;VIA PUBLICA;semiRAPID;MENNEKES;41.393688;2.148970; 08-0193-157 ;(eDUM)  Lateral-Mar Diagonal (Casanova-Muntaner) (7-8kW);QC007;Avinguda Diagonal, 449;Barcelona;08;Barcelona;0193;2;mercaderies;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+BIMSA;VIA PUBLICA;semiRAPID;MENNEKES;41.395370;2.153832; 08-0193-158 ;(eDUM)  Lateral-Muntanya Diagonal (Balmes-Tusset) (7-12kW);QC008;Avinguda Diagonal, 508;Barcelona;08;Barcelona;0193;2;mercaderies;93.291.41.50;24h;https://w30.bcn.cat/APPS/portaltramits/portal/channel/default.html?&stpid=20100001027&style=empresa
+Ajuntament d'Alella;VIA PUBLICA;NORMAL;Schuko;41.49187;2.295535; 08-0039-001 ;Riera Fosca-Riera Alella;;Riera Fosca-Riera Alella;Barcelona;08;Alella;0039;2;;;;
+ENGESTUR;APARCAMENT CC;NORMAL;Schuko;41.452527719;2.249290201; 08-0155-001 ;CC BCN-El Viver;;Avinguda  President Companys, 3;Barcelona;08;Badalona;0155;6;;;;
+ENGESTUR;APARCAMENT CC;NORMAL;Schuko;41.454780677;2.246644505; 08-0155-002 ;CC BCN-Manel Valls;;Plaça Manel Valls;Barcelona;08;Badalona;0155;6;;;;
+ENGESTUR;APARCAMENT CC;NORMAL;Schuko;41.454699911;2.243362333; 08-0155-003 ;CC BCN-Illa Central;;Avinguda  Martí Pujol;Barcelona;08;Badalona;0155;6;;;;
+ENGESTUR;APARCAMENT CC;NORMAL;Schuko;41.443979302;2.238902041; 08-0155-004 ;CC BCN-Països Catalans;;Plaça dels Països Catalans;Barcelona;08;Badalona;0155;6;;;;
+SUZUKA ZERO;CONCESSIONARI (PRIVAT) ;NORMAL;Schuko;41.4425;2.233888889; 08-0155-005 ;Suzuka Zero;;Carrer Baldomero Solà 202-204;Barcelona;08;Badalona;0155;1;cotxe i moto;93.460.14.10;DL-DV Horari Comercial;
+MOBILITAT-IBERDROLA;VIA PUBLICA (MOBECPOINT);NORMAL;Schuko;41.459165763709166;2.2288499772548676; 08-0155-007 ;MOBECPOINT-Institut Gaudí Construcció;;Avinguda Comunitat Europea;Barcelona;08;Badalona;0155;1;moto;;;
+IBIL;APARCAMENT CC (IBIL);semiRAPID i NORMAL;MENNEKES+Schuko;41.508264;2.138665; 08-2520-001 ;IBIL-CC Baricentro (11kW);;Carretera N-150 km 6,7  (Pstg.Sagrera);Barcelona;08;Barberà del Vallès;2520;2;cotxe i moto;;;
+MOBECHOTEL-IBERDROLA;VIA PUBLICA;NORMAL;Schuko;41.411739;2.219399; 08-0193-108 ;124 MOBECPOINT-Hotel Zero;;Plaça de Llevant ;Barcelona;08;Barcelona;0193;10;moto;;;
+El Corte Inglés;APARCAMENT CC;NORMAL;Schuko;41.387627;2.128022; 08-0193-115 ;98 El Corte Inglés;;Avinguda Diagonal, 617;Barcelona;08;Barcelona;0193;3;cotxe;;;
+HOTEL NH CONSTANZA;HOTEL;NORMAL;Schuko;41.3893292;2.166049599999951; 08-0193-118 ;HOTEL NH CALDERON;;Rambla de Catalunya, 26;Barcelona;08;Barcelona;0193;1;;93.301.00.00;;
+HOTEL NH CONSTANZA;HOTEL;NORMAL;Schuko;41.388790;2.136332; 08-0193-119 ;103 HOTEL NH CONSTANZA;;Carrer de Déu i Mata, 69;Barcelona;08;Barcelona;0193;1;cotxe;;;
+HOTEL NH CONSTANZA;HOTEL;NORMAL;Schuko;41.38455;2.1376712999999654; 08-0193-120 ;HOTEL NH NUMANCIA;;Carrer de Numància, 74;Barcelona;08;Barcelona;0193;1;;93.322.44.51;;
+HOTEL NH CONSTANZA;HOTEL;NORMAL;Schuko;41.3915983 ;2.177850499999977; 08-0193-121 ;HOTEL NH PODIUM;;Carrer de Bailén, 4-6;Barcelona;08;Barcelona;0193;1;;93.265.02.02;;
+Interparking;APARCAMENT PUBLIC;NORMAL;Schuko;41.378017;2.176001; 08-0193-122 ;105 Interparking Rambla Plç.Colon;;Rambla de Santa Mònica, 20;Barcelona;08;Barcelona;0193;2;cotxe;;;
+Interparking;APARCAMENT CC;NORMAL;Schuko;41.392826;2.163384; 08-0193-123 ;104 Interparking Boulevard Rosa;;Carrer de València 270;Barcelona;08;Barcelona;0193;2;cotxe;;;
+Melià BCN;HOTEL;NORMAL;Schuko;41.390865;2.141604; 08-0193-125 ;Melià BCN;;Avinguda  Sarrià, 50;Barcelona;08;Barcelona;0193;2;cotxe;;;
+Parc cientific;APARCAMENT PUBLIC;NORMAL;Schuko;41.381573;2.114353; 08-0193-126 ;110 Parc cientific;;Avinguda del Dr. Gregorio Marañón, 8;Barcelona;08;Barcelona;0193;13;cotxe i moto;;;
+Parking Abart;APARCAMENT PUBLIC;NORMAL;Schuko;41.396271;2.149651; 08-0193-127 ;111 Parking Abart;;Travessera de Gràcia, 53-65;Barcelona;08;Barcelona;0193;1;cotxe i moto;;;
+REGESA;APARCAMENT PUBLIC;NORMAL;Schuko;41.429783;2.172896; 08-0193-128 ;REGESA Paul Claudel;;Plaça de Paul Claudel, s/n;Barcelona;08;Barcelona;0193;4;cotxe;;;
+REGESA;APARCAMENT PUBLIC;NORMAL;Schuko;41.418510;2.186116; 08-0193-129 ;74 REGESA;;Plaça de Ferran Reyes, 9;Barcelona;08;Barcelona;0193;4;cotxe;;;
+REGESA;APARCAMENT PUBLIC;NORMAL;Schuko;41.420441;2.180899; 08-0193-130 ;75 REGESA;;Plaça de Maragall, 1;Barcelona;08;Barcelona;0193;4;cotxe;;;
+REGESA;APARCAMENT PUBLIC;NORMAL;Schuko;41.392242;2.139655; 08-0193-131 ;72 REGESA;;Plaça de Wagner, s/n;Barcelona;08;Barcelona;0193;4;cotxe;;;
+SABA;APARCAMENT PUBLIC;NORMAL;Schuko;41.391895;2.169057; 08-0193-133 ;76 SABA;;Carrer de la Diputació, 286;Barcelona;08;Barcelona;0193;2;cotxe;;;
+SABA;APARCAMENT PUBLIC;NORMAL;Schuko;41.387398;2.168515; 08-0193-134 ;77 SABA;;Rambla de Catalunya, 15;Barcelona;08;Barcelona;0193;2;cotxe;;;
+SABA;APARCAMENT PUBLIC;NORMAL;Schuko;41.389408;2.183425; 08-0193-135 ;78 SABA;;Passeig Lluís Companys, 2;Barcelona;08;Barcelona;0193;4;cotxe;;;
+SABA;APARCAMENT PUBLIC;NORMAL;Schuko;41.385239;2.176462; 08-0193-136 ;79 SABA Mercat Sta.Caterina;;Avinguda  de la Catedral, 8;Barcelona;08;Barcelona;0193;2;moto;;;
+SABA;APARCAMENT PUBLIC;NORMAL;Schuko;41.411869;2.132823; 08-0193-137 ;80 SABA Cosmocaixa ;;Carrer dels Quatre Camins, 89;Barcelona;08;Barcelona;0193;2;cotxe;;;
+SABA;APARCAMENT PUBLIC;NORMAL;Schuko;41.393417;2.107020; 08-0193-138 ;81 SABA;;Plaça de l'Escultor Ramir Rocamora - Avinguda  Pearson, 21;Barcelona;08;Barcelona;0193;2;cotxe;;;
+Servei Estació;APARCAMENT CC;NORMAL;Schuko;41.391502;2.164304; 08-0193-139 ;112 Servei Estació;;Carrer d'Aragó, 268;Barcelona;08;Barcelona;0193;1;cotxe;;;
+SERVICIOS MERIDIANA;APARCAMENT PUBLIC;NORMAL;Schuko;41.399605;2.170186; 08-0193-140 ;114 SERVICIOS MERIDIANA;;Carrer de Mallorca, 335;Barcelona;08;Barcelona;0193;6;cotxe i moto;;;
+SERVICIOS MERIDIANA;APARCAMENT PUBLIC;NORMAL;Schuko;41.408394;2.177052; 08-0193-141 ;115 SERVICIOS MERIDIANA;;Carrer de Rosselló, 503-505;Barcelona;08;Barcelona;0193;4;cotxe i moto;;;
+SERVICIOS MERIDIANA;APARCAMENT PUBLIC;NORMAL;Schuko;41.402645;2.202802; 08-0193-142 ;116 SERVICIOS MERIDIANA;;Passatge Saladrigas, 4-6;Barcelona;08;Barcelona;0193;6;cotxe i moto;;;
+TABASA E.S. Tunel Vallvidrera;ESTACIÓ SERVEI;NORMAL;Schuko;41.433258;2.078548; 08-0193-143 ;97 TABASA E.S. Tunel Vallvidrera;;Carretera C-16, km 6,45;Barcelona;08;Barcelona;0193;4;cotxe i moto;;;
+Vincipark;APARCAMENT PUBLIC;NORMAL;Schuko;41.382694;2.139639; 08-0193-144 ;Aparcament Vincipark Numància;;Carrer de Numància, 37;Barcelona;08;Barcelona;0193;3;;;;
+Vincipark;APARCAMENT PUBLIC;NORMAL;Schuko;41.393803;2.138297; 08-0193-145 ;Aparcament Vincipark Ganduxer;;Carrer Ganduxer, 25-27;Barcelona;08;Barcelona;0193;4;cotxe i moto;;;
+Vincipark;APARCAMENT PUBLIC;NORMAL;Schuko;41.373722;2.170482; 08-0193-146 ;Aparcament Vincipark Vilà i Vilà;;Carrer de Vilà i Vilà, 44;Barcelona;08;Barcelona;0193;3;cotxe i moto;;;
+Valencia 2013;APARCAMENT PUBLIC?;NORMAL;Schuko;41.392466102;2.163201936; 08-0193-147 ;Valencia 2013;;Carrer València, 270;Barcelona;08;Barcelona;0193;1;;;;
+Abertis-saba;VIA PUBLICA;NORMAL;Schuko;41.340265;2.125109; 08-0193-148 ;Seu zona franca Abertis;;Carrer numero Un;Barcelona;08;Barcelona;0193;2;cotxe i moto;;24h;
+CORIO REAL ESTATE ;APARCAMENT CC;semiRAPID i NORMAL;MENNEKES.F+Schuko;41.375511;2.182206; 08-0193-149 ;CC Maremagnum ( 7.4 i 3.7kW);;Moll d'Espanya, 5;Barcelona;08;Barcelona;0193;2+3;cotxe i moto;;;
+Aparcament Dr.Roig i Raventós;Parking Soterrat (P -1);NORMAL;Schuko;41.4035393;2.130069; 08-0193-150 ;Aparcament Dr.Roig i Raventós;;Carrer Dalmases, 76 B;Barcelona;08;Barcelona;0193;1;;93.567.88.88;8-22h;
+IBIL;ESTACIÓ SERVEI (IBIL);RAPID;CCS Combo2+ChadeMO+MENNEKES.M;41.38266517890297;2.1063829958438873; 08-0193-152 ;IBIL-ES Seu RACC (DC50kW AC44kW);;Avinguda Diagonal 695;Barcelona;08;Barcelona;0193;1;cotxe;902.540.810;;
+RENAULT (AUTANSA 3000);CONCESSIONARI (PRIVAT) ;semiRAPID i NORMAL;MENNEKES+Schuko;41.384750426;2.136414231; 08-0193-153 ;RENAULT (RETAIL GROUP - LES CORTS) (22 i 3.7kW);;Carrer del Marques de Sentmenat, 28-36;Barcelona;08;Barcelona;0193;3;cotxe;902.002.067;;
+Abertis-saba;VIA PUBLICA;NORMAL;Schuko;41.340072;2.125827; 08-0193-169 ;Seu zona franca Saba;;Carrer numero Un;Barcelona;08;Barcelona;0193;2;cotxe i moto;;24h;
+CC CARREFOUR MATARÓ ;APARCAMENT CC;NORMAL;Schuko;41.51978;2.421356; 08-0291-001 ;CC CARREFOUR Cabrera de Mar ;;Carretera N-II, km 644;Barcelona;08;Cabrera de Mar;0291;2;cotxe i moto;;;
+Ajuntament de Cabrils;APARCAMENT PUBLIC;NORMAL;Schuko;41.526897;2.366464; 08-0305-001 ;Aparcament Concòrdia;;Carrer del Torrent Roig, 6, Aparcament;Barcelona;08;Cabrils;0305;1;cotxe i moto;;;
+Ajuntament Sant Vicenç Montalt;APARCAMENT PUBLIC;NORMAL;Schuko;41.56712807840754;2.5215239077806473; 08-0327-001 ;Pèrgola FV, Aparcament N-II;;Carretara N-II, Carretera Sant Vicenç de Montalt BV-5034;Barcelona;08;Caldes d'Estrach;0327;2;cotxe i moto;;;
+;APARCAMENT PUBLIC;NORMAL;Schuko;41.7239;2.4634; 08-0399-001 ;MONTSENY P Carrer Font a l'Escola;;Carrer de la Font, s/n;Barcelona;08;Campins;0399;2;cotxe o moto;93.847.50.30;;
+;;NORMAL;Schuko;41.588539;2.580349; 08-0403-001 ;Aparcament Mercury;;Riera Gavarra, 12;Barcelona;08;Canet de Mar;0403;1;cotxe o moto;;;
+Uriswagen;COMERÇ;NORMAL;Schuko;41.599031641727535;2.4440141022205353; 08-0752-001 ;Uriswagen BOSCH SERVICE;;Avinguda  Lluís Companys-Av de Mataró;Barcelona;08;Canyamars;0752;1;;;;
+Ajuntament de Castelldefels;VIA PUBLICA;NORMAL;Schuko;41.281941;1.980239; 08-0569-001 ;Aparcament Arcadi Balaguer-Albert Einstein;;Carrer d'Arcadi Balaguer- Carrer d'Albert Einstein;Barcelona;08;Castelldefels;0569;2;cotxe i moto;;24h;
+CC Anec Blau;APARCAMENT CC;NORMAL;Schuko;41.283698;1.987250; 08-0569-002 ;CC Anec Blau;;Rotonda Can Rabadà, 16;Barcelona;08;Castelldefels;0569;1;cotxe i moto;;;
+Fundacio Privada Ascamm;PRIVAT;NORMAL;Schuko;41.486788901;2.12674235; 08-2665-001 ;Fundacio Privada Ascamm;;Avinguda  Universitat Autonoma, 23;Barcelona;08;Cerdanyola del Vallès;2665;1;;;;
+CC Splau!;APARCAMENT CC;NORMAL;Schuko;41.348210524810646;2.0780575275421143; 08-0734-001 ;CC Splau!;;Avinguda  Baix Llobregat, 121, CC Splau!;Barcelona;08;Cornellà de Llobregat;0734;6;cotxe;;;
+Ajuntament de  El Masnou;VIA PUBLICA;NORMAL;Schuko;41.477990439;2.304726294; 08-1189-001 ;Ajuntament de El Masnou;;Passeig Joan Carles I, 12;Barcelona;08;El Masnou;1189;1;;;;
+Ajuntament de  El Masnou;VIA PUBLICA;FORA DE SERVEI;Schuko;41.4821;2.3229; 08-1189-002 ;Carrer de Fontanils;;Carrer Fontanils, 122;Barcelona;08;El Masnou;1189;1;cotxe o moto;;;
+CC CARREFOUR El Prat;APARCAMENT CC;NORMAL;Schuko;41.335179;2.088768; 08-1691-001 ;CC CARREFOUR El Prat;;Autovia Castelldefels km 194;Barcelona;08;El Prat;1691;2;cotxe i moto;;;
+REGESA;APARCAMENT PUBLIC;NORMAL;Schuko;41.306022;2.005376; 08-0898-001 ;Parking REGESA (Torre Lluch);;Carrer del Centre, 3;Barcelona;08;Gavà;0898;2;cotxe i moto;;;
+CC BARNASUD;APARCAMENT CC P-1, Zona Carrefour;NORMAL;Schuko;41.296209;2.006457; 08-0898-001 ;CC BARNASUD;;Carrer del Progrés, 69 - Carrer de l'Energia, 30;Barcelona;08;Gavà;0898;2;cotxe i moto;93.662.56.56;dl-dj+dg 9:30-1:30, dv-ds 9:30-3:30;
+Ajuntament de  Granollers;VIA PUBLICA;NORMAL;Schuko;41.608160167;2.287309987; 08-0961-001 ;Aparcament Can Comas;;Plaça de la Porxada, 6;Barcelona;08;Granollers;0961;3;cotxe i moto;;;
+Estabanell y Pahisa;VIA PUBLICA (codiQR);NORMAL;Schuko;41.60961924;2.28509905; 08-0961-002 ;EP-Seu Estabanell y Pahisa GRN;;Carrer Rec, 22-28;Barcelona;08;Granollers;0961;1;cotxe;900.250.260;24h;http://www.e-mobilitat.cat
+RENAULT (AUTOMOBILS PRUNA);CONCESSIONARI (PRIVAT) ;semiRAPID i NORMAL;MENNEKES+Schuko;41.597501673;2.264542966; 08-0961-003 ;RENAULT (AUTOMOBILS PRUNA) (22 i 3.7kW);;Carretera C-17 km 19 ;Barcelona;08;Granollers;0961;5;cotxe;;Horari Comercial;
+PETROMIRALLES;ESTACIÓ SERVEI;NORMAL;Schuko;41.588905;1.6218929; 08-1022-001 ;ES PetroMiralles;;Carrer Guimaraes, 2;Barcelona;08;Igualada;1022;1;;;;
+Estabanell y Pahisa;VIA PUBLICA (codiQR);NORMAL;Schuko;41.682718;2.2825619; 08-0885-001 ;EP-Estabanell y Pahisa-Antic Safareig;;Passeig del Congost - Carretera Nova;Barcelona;08;La Garriga;0885;1;cotxe;900.250.260;24h;http://www.e-mobilitat.cat
+IBIL;ESTACIÓ SERVEI (IBIL);RAPID;CCS Combo2+ChadeMO+MENNEKES.M;41.596529;2.309376; 08-1810-001 ;IBIL-ES REPSOL C-352  (DC50kW AC44kW);;Carretera de Barcelona, C-352;Barcelona;08;La Roca del Vallès;1810;1;cotxe;902.540.810;;
+La Roca Village;APARCAMENT (interfon);semiRAPID i NORMAL;MENNEKES+Schuko;41.610694;2.343342; 08-1810-002 ;La Roca Village;;P.I. Can Massaguer Nord;Barcelona;08;La Roca del Vallès;1810;2;cotxe i moto;;;
+L'H2010;APARCAMENT CC;NORMAL;Schuko;41.374238291;2.119582102; 08-1017-001 ;CC BCN-Mercat de Collblanc;;Carrer Progrès, 33;Barcelona;08;L'Hospitalet de Llobregat;1017;6;;;;
+REGESA;APARCAMENT CC;NORMAL;Schuko;41.363926804;2.127766612; 08-1017-002 ;CC BCN-Francesc Macià;;Carrer Francesc Macià;Barcelona;08;L'Hospitalet de Llobregat;1017;2;;;;
+MOBECHOTEL-IBERDROLA;VIA PUBLICA (MOBECPOINT);NORMAL;Schuko;41.3552;2.1271; 08-1017-003 ;MOBECPOINT-Hotel Porta Fira;;Plaça Europa, 45-47;Barcelona;08;L'Hospitalet de Llobregat;1017;1;moto;;;
+MOBILITAT-IBERDROLA;VIA PUBLICA (MOBECPOINT);NORMAL;Schuko;41.354179240094915;2.128281891345978; 08-1017-004 ;MOBECPOINT-Fira2;;Carrer de la Ciència, 49;Barcelona;08;L'Hospitalet de Llobregat;1017;1;moto;;;
+Ajuntament de Llinars del Vallès;;NORMAL;Schuko;41.640184225;2.399023735; 08-1069-001 ;Ajuntament de Llinars del Vallès;;Avinguda  Pau Casals, 26;Barcelona;08;Llinars del Vallès;1069;1;;;;
+Parking Pavelló municipal;APARCAMENT PUBLIC;NORMAL;Schuko;41.64082638017494;2.398894988000393; 08-1069-002 ;Parking Pavelló municipal;;Passatge Riera-Carrer Collsabadell;Barcelona;08;Llinars del Vallès;1069;1;;;;
+CC CARREFOUR MANRESA;APARCAMENT CC;NORMAL;Schuko;41.7227;1.8456; 08-1136-001 ;CC CARREFOUR MANRESA;;Carrer de Joan Fuster-Avinguda Països Catalans;Barcelona;08;Manresa;1136;1;;;;
+Hotel Turó de la Torre;HOTEL;NORMAL;Schuko;41.73874569186171 ;1.8412050604820251; 08-1136-002 ;Hotel Turó de la Torre;;P.I. Els Dolors, Carrer de Sallent, S/N, Torre Alberni;Barcelona;08;Manresa;1136;1;;93.873.32.86;;
+RENAULT (AUTOTRANSVERSAL);CONCESSIONARI (PRIVAT) ;semiRAPID i NORMAL;MENNEKES+Schuko;41.733938038;1.839981443; 08-1136-004 ;RENAULT (AUTOTRANSVERSAL) (22 i 3.7kW);;Carretera de Vic, 225;Barcelona;08;Manresa;1136;3;cotxe;938.866.263;Horari Comercial;
+Ajuntament de Manresa;VIA PUBLICA;semiRAPID i NORMAL;MENNEKES.F+Schuko;41.73682408;1.82836016; 08-1136-005 ;Escola Politècnica Superior d'Enginyeria (22 i 3.7kW);;Avinguda de les bases de Manresa-Carrer de Beltran de Castelbell;Barcelona;08;Manresa;1136;;;;;
+IBIL;ESTACIÓ SERVEI (IBIL);RAPID; CCS Combo2+ChadeMO+MENNEKES.M ;41.52801;1.8809321; 08-0765-001 ;IBIL-ES REPSOL A2 BurgerKing (DC50kW AC44kW);;Carretera C-1414, Autovia A2 km 581,5, sortida 581 dir.TGN o 582B dir.BCN;Barcelona;08;Esparreguera;0765;1;cotxe;93.777.39.57;24h;
+Green & Drive Electric, S.L.;GREEN&DRIVE;NORMAL;Schuko;41.527441322;2.228490246; 08-1154-001 ;Green & Drive Electric, S.L.;;Avinguda  Piera, 22;Barcelona;08;Martorelles;1154;1;;;;
+Helectra- Distribuidor;;NORMAL;Schuko;41.551017454;2.453290292; 08-1213-001 ;Helectra- Distribuidor;;Carrer de Energia 9;Barcelona;08;Mataró;1213;1;moto;;;
+Helectra- Distribuidor;;NORMAL;Schuko;41.541658913;2.453139729; 08-1213-002 ;Helectra- Distribuidor;;Carrer de Solís , 45;Barcelona;08;Mataró;1213;1;moto;;;
+Gintra- Ap.TECNOCAMPUS;APARCAMENT PUBLIC;NORMAL;Schuko;41.527773587;2.433324182; 08-1213-003 ;Gintra- Ap.TECNOCAMPUS;;Carrer Tordera, 2;Barcelona;08;Mataró;1213;1;;;;
+Gintra-Ap.Plaça Granollers;APARCAMENT PUBLIC;NORMAL;Schuko;41.540844099;2.43629352; 08-1213-004 ;Gintra-Ap.Plaça Granollers;;Camí de la Geganta, 117;Barcelona;08;Mataró;1213;1;;;;
+Gintra-Ap. Parc Central;APARCAMENT PUBLIC;NORMAL;Schuko;41.544018552;2.440582297; 08-1213-005 ;Gintra-Ap. Parc Central;;Camí de la Geganta, 15;Barcelona;08;Mataró;1213;1;;;;
+Gintra-Ap Plaça de Cuba;APARCAMENT PUBLIC;NORMAL;Schuko;41.537302431;2.440399469; 08-1213-006 ;Gintra-Ap Plaça de Cuba;;Carrer Cuba, 40;Barcelona;08;Mataró;1213;1;;;;
+9-Transport SL;COMERÇ BICIS;NORMAL;Schuko;41.53526208;2.444764014; 08-1213-007 ;9Transport SL;;Carrer Lepant, 48;Barcelona;08;Mataró;1213;1;;;;
+RENAULT (REMM GUITART);CONCESSIONARI (PRIVAT) ;semiRAPID i NORMAL;MENNEKES+Schuko;41.412001811;2.015137604; 08-1234-002 ;RENAULT (REMM GUITART) (22 i 3.7kW);;Passeig del Terraplè, 51;Barcelona;08;Molins de Rei;1234;5;cotxe;;Horari Comercial 8-20h ;
+Circuit de Catalunya;APARCAMENT CIRCUIT, Zona i4 esq.;NORMAL;Schuko;41.568653;2.257820; 08-1350-001 ;Circuit de Catalunya;;Carrer Mas La Moreneta;Barcelona;08;Montmeló;1350;2;cotxe o moto;;;
+Ajuntament Montornès;VIA PUBLICA;NORMAL;MENNEKES.F+Schuko;41.545427;2.266663; 08-1363-001 ;Ajuntament Montornès;;Avinguda de la Llibertat, 2;Barcelona;08;Montornès del Vallès;1363;2;cotxe i moto;;24h;
+RENAULT (GARATGE SANT JAUME);CONCESIONARI (PRIVAT);semiRAPID i NORMAL ;MENNEKES.F+Schuko;41.622734;2.671451; 08-1635-001 ;RENAULT (GARATGE SANT JAUME);;Carrer Garbí,196, Carretera N-II;Barcelona;08;Pineda de Mar;1635;2+1;cotxe i moto;937.66.71.00;Horari Comercial;93.762.90.83
+Mercat de Rubí;;NORMAL;Schuko;41.488958;2.0353593; 08-1846-001 ;Mercat de Rubí;;Carrer Llobateres, 89;Barcelona;08;Rubí;1846;1;;;;
+CC IKEA SABADELL;APARCAMENT CC;NORMAL;MENNEKES.F+Schuko;41.511;2.1063; 08-1878-001 ;CC IKEA SABADELL;;Carrer de Serra del Galliners- Pssg Sant Pau de Riu Sec;Barcelona;08;Sabadell;1878;21;cotxe i moto;;Horari Comercial;
+E-Movement;CONCESSIONARI (PRIVAT);NORMAL;Schuko;41.5529;2.1035; 08-1878-002 ;E-MOVEMENT;;Carrer Papa Pius XI, 59;Barcelona;08;Sabadell;1878;1;;93.748.06.84;Horari Comercial;
+Eco-moviment;COMERÇ;NORMAL;Schuko;41.54314061;2.10335432; 08-1878-003 ;Eco-moviment;;Carretera de Barcelona 11;Barcelona;08;Sabadell;1878;1;;;Horari Comercial;
+Aparcament Vapor Turull;APARCAMENT PUBLIC;NORMAL;Schuko;41.549386309;2.111784403; 08-1878-004 ;Aparcament Vapor Turull;;Carrer de la Creueta;Barcelona;08;Sabadell;1878;1;;;;
+BMW (BARCELONA Premium);CONCESSIONARI (PRIVAT);semiRAPID;MENNEKES.F+MENNEKES.M;41.43221045967178;2.210616320371628; 08-1944-001 ;BMW (BARCELONA Premium) (7.4kW);;Carrer de Joan d'Àustria, 1 ;Barcelona;08;Sant Adrià de Besòs;1944;2;cotxe;;Horari Comercial;
+EUSAB;APARCAMENT CC;NORMAL;Schuko;41.43054737;2.218260673; 08-1944-002 ;Aparcament-Plaça de la Vila;;Plaça de la Vila;Barcelona;08;Sant Adrià de Besòs;1944;2;;;;
+CC IKEA SANT BOI ;APARCAMENT CC;NORMAL;Schuko;41.3546;2.1247; 08-2009-001 ;CC IKEA SANT BOI ;;Carrer de de les Ciències, 82-94;Barcelona;08;Sant Boi de Llobregat;2009;1;;;;
+RENAULT (TALLERES ROS);CONCESSIONARI (PRIVAT) ;semiRAPID i NORMAL;MENNEKES+Schuko;41.340670704;2.048253699; 08-2009-002 ;RENAULT (TALLERES ROS) (22 i 3.7kW));;Carretera de la Santa Creu de Calafell, 1;Barcelona;08;Sant Boi de Llobregat;2009;3;cotxe;936.52.20.51;;
+Ajuntament de Sant Cugat del Vallès;VIA PUBLICA;NORMAL;Schuko;41.469931;2.088010; 08-2055-001 ;Plaça. Mil·lenari-Auditori Sant Cugat;;Avinguda Pla del Vinyet 30T-Plaça Mil·lenari;Barcelona;08;Sant Cugat del Valles;2055;2;cotxe i moto;;24h;http://www.oficinasostenible.santcugat.cat/presentacio1_1/_uAlD6pePkNYphiyoshUOAU6Nq6ToGKaN0_gXX_DduuVLvbXt27aOiA
+TABASA;APARCAMENT PUBLIC;NORMAL;Schuko;41.4812;2.0726; 08-2055-002 ;TABASA Estació FGC VOLPELLERES;;Plaça de l'estació;Barcelona;08;Sant Cugat del Valles;2055;1;cotxe;;;
+Masià;APARCAMENT CLIENTS;NORMAL;Schuko;41.6995;2.3834; 08-2346-001 ;Masia Can Pau Filbà;;Masia aïllada;Barcelona;08;Sant Pere Vilamajor;2346;2;cotxe i moto;639.731.775;;
+GRAMEPARK;APARCAMENT CC;NORMAL;Schuko;41.451025;2.209483; 08-2457-001 ;Parking GRAMEPARK;;Rambla de Sant Sebastià,2;Barcelona;08;Santa Coloma de Gramenet;2457;9;cotxe i moto;;24h;
+Aparcament Cal Llobet-Selba;APARCAMENT PUBLIC;NORMAL;Schuko;41.78188554764706;1.836778074502945; 08-1923-001 ;Aparcament Cal Llobet-Selba;;Carrer Roger de Flor, 11;Barcelona;08;Santpedor;1923;1;cotxe i moto;;;
+Aparcament Sofia;APARCAMENT PÚBLIC;NORMAL;Schuko;41.234074;1.804050; 08-2704-001 ;Parking Avinguda Sofia, Calipolis ;;Avinguda Sofia, 2;Barcelona;08;Sitges;2704;2;cotxe i moto;;;
+Hotel Estela;HOTEL;NORMAL;Schuko;41.235620309;1.826850541; 08-2704-002 ;Hotel Estela;;Avinguda  Port d'Aiguadolç, 8;Barcelona;08;Sitges;2704;1;moto;;;
+Restaurant Sol i vi;APARCAMENT CLIENTS;NORMAL;;41.401670;1.757021; 08-2732-001 ;Restaurant Sol i Vi;;Carretera de Sant Sadurní d'Anoia a Vilafranca del Penedès, km 4;Barcelona;08;Subirats;2732;1;cotxe i moto;938.99.32.04;Horari comercial;
+IBIL;APARCAMENT CC (IBIL);semiRAPID i NORMAL;MENNEKES+Schuko;41.5643087913205;2.0355579257011414; 08-2798-001 ;IBIL-CC Eroski Terrassa-Viena (11kW);;Carrer Navarra, 6 ;Barcelona;08;Terrassa;2798;2;cotxe;;;
+Ajuntament de Terrassa;APARCAMENT PUBLIC;NORMAL;Schuko;41.560382;2.006377; 08-2798-002 ;Plaça Progres-Gutenberg-Arquimedes;;Carrer ARQUIMEDES, 150;Barcelona;08;Terrassa;2798;3;moto;;;
+Hotel Don Cándido;APARCAMENT HOTEL;NORMAL;MENNEKES.F+Schuko;41.552551;2.008381; 08-2798-003 ;Hotel Don Cándido;;Carrer Rambleta Pare Alegre, 98;Barcelona;08;Terrassa;2798;3;cotxe i moto;937.33.33.00;Horari Hotel;
+Estabanell y Pahisa;VIA PUBLICA (codiQR);NORMAL;Schuko;41.84919539;2.22780389; 08-2830-001 ;EP-Estabanell y Pahisa TONA;;Carretera Manresa, s/n;Barcelona;08;Tona;2830;1;cotxe;900.250.260;;http://www.e-mobilitat.cat
+Ajuntament de Vic;VIA PUBLICA;NORMAL;Schuko;41.933748;2.248307; 08-2981-001 ;Rectorat Universitat VIC;;Carrer Miramarges, 4;Barcelona;08;Vic;2981;2;moto;93.889.12.44;24h;http://www.vic.cat/viure-a-vic/medi-ambient/medi-ambient/mobilitat-sostenible/punts-de-recarrega-de-vehicles-electrics
+Ajuntament de Vic;APARCAMENT PUBLIC;NORMAL;J1772.F+Schuko;41.933947446794036;2.2602398693561554; 08-2981-002 ;IES-VIC Aparcament (J1772);;Carrer Jose Maria Sert s/n;Barcelona;08;Vic;2981;2+2;moto i cotxe;93.889.12.44;de dia;http://www.vic.cat/viure-a-vic/medi-ambient/medi-ambient/mobilitat-sostenible/punts-de-recarrega-de-vehicles-electrics
+Ajuntament de Vic;VIA PUBLICA;NORMAL;Schuko;41.926851;2.245734; 08-2981-003 ;Xemeneia del Sucre;;Avinguda del Mercat, 6;Barcelona;08;Vic;2981;2;cotxe;93.889.12.44;24h;http://www.vic.cat/viure-a-vic/medi-ambient/medi-ambient/mobilitat-sostenible/punts-de-recarrega-de-vehicles-electrics
+CC ALDI;APARCAMENT CC;NORMAL;MENNEKES.F;41.321165;2.027702; 08-3015-002 ;CC ALDI;;Carretera Barcelona, 84;Barcelona;08;Viladecans;3015;4;cotxe;617.63.77.72;Horari Comercial 9:15-21:15;
+CIRCONTROL;APARCAMENT SEU (PRIVAT);semiRAPID i NORMAL ;MENNEKES.M+Schuko;41.560821;1.961738; 08-3008-001 ;Seu CIRCONTROL;;Carrer Innovació,3 - P I. Can Mitjans;Barcelona;08;Viladecavalls;3008;4+3;cotxe i moto;937.45.29.00;;
+VNG Charlie Rivel;APARCAMENT PUBLIC;NORMAL;Schuko;41.220585799;1.723097599; 08-3073-001 ;VNG Charlie Rivel;;Carrer del Pare Garí, 91;Barcelona;08;Vilanova i la Geltrú;3073;2;cotxe i moto;93.893.27.37;;
+Ajuntament de Banyoles;VIA PUBLICA;NORMAL;Schuko;42.119119;2.764798; 17-0157-001 ;Plaça Servites- Museu Darder;;Carrer Josep Maria Bohigas, 11;Girona;17;Banyoles;0157;1;cotxe i moto;972.57.00.50;24h;
+Motogreencity (Motos i bicis elèctriques);COMERÇ;NORMAL;Schuko;41.679881199;2.778669306; 17-0237-001 ;Motogreencity;;Carrer Mas Florit, 8;Girona;17;Blanes;0237;1;;;;
+Wattpic s.l.;COMERÇ;NORMAL;Schuko;41.889749145;2.866575153; 17-0448-001 ;Wattpic S.L.;;Carrer de la Vía, s/n;Girona;17;Cassà de La Selva;0448;1;;;;
+IBIL;ESTACIÓ DE SERVEI (IBIL);RAPID; CCS Combo2+ChadeMO+MENNEKES.M ;42.025269;2.865046; 17-0499-001 ; IBIL ES REPSOL-Celrà (DC50kW AC44kW) ;;Carretera C-66, km 30,5;Girona;17;Celrà;0499;1;cotxe;93.249.20.29;6h-22h ;
+Automòbils GÜELL;CONCESSIONARI (PRIVAT);NORMAL;Schuko;42.08469775987304;2.8143829107284546; 17-0561-001 ;Automòbils GÜELL;;Carretera C-66, Paratge Comanell, s/n;Girona;17;Cornella de Terri;0561;1;;972.59.65.97;;619 804 465 - 692 130 707 - 652 190 525
+Ajuntament de Girona;VIA PUBLICA;NORMAL;Schuko;41.98145668149892;2.823227494955063; 17-0792-001 ;Girona- Pl.Catalunya (S-W);;Plaça Catalunya, 24;Girona;17;Girona;0792;1;;;;
+TESLA Hotel Ibis;APARCAMENT HOTEL;superRAPID;TESLA;41.998494;2.817328; 17-0792-002 ;Supercarregador Girona-Hotel IBIS-Costa Brava (120kW);;Carrer Francesc Ferrer, 16-18;Girona;17;Girona;0792;4;cotxe;972.39.15.38;24h;
+Ajuntament de Ripoll;VIA PUBLICA (targeta 30€ municipal);semiRAPID i NORMAL;MENNEKES.F+Schuko;42.2006726430273;2.1902771294116900; 17-1479-001 ;Ajuntament Ripoll;;Carrer Berenguer el Vell, (Ajuntament);Girona;17;Ripoll;1479;2;cotxe i moto;;24h;
+Camping Joncar Mar;CAMPING;NORMAL;Schuko;42.2663804;3.1634371999999700; 17-1523-001 ;Camping Joncar Mar;;Carrer Bernat Metge, 12;Girona;17;Roses;1523;1;;972.25.67.02;;
+E-Copdegas;CONCESSIONARI (PRIVAT);NORMAL;Schuko;41.7836;3.0241; 17-1609-001 ;E-Copdegas;;Carrer Stª Magdalena, 31;Girona;17;Sant Feliu de Guíxols;1609;1;moto;;Horari Comercial;
+Hotel Restaurant SAUSA;HOTEL-Restaurant;NORMAL;Schuko;42.09517389742783;2.892667204141617; 17-0168-001 ;Hotel Restaurant SAUSA;;Carretera N-II, km 732;Girona;17;Terradelles;0168;1;;972.56.10.00;;
+Camping La Presalla;CAMPING;NORMAL;Schuko;42.614850924171904;1.1243297159671783; 25-0864-001 ;Camping La Presalla;;Carretera C-13 km 159;LLeida;25;Esterri d'Àneu;0864;1;;973.62.62.63;;
+SOFOS ENERGIA;APARCAMENT PRIVAT;NORMAL;Schuko;41.614821;0.684832; 25-1207-001 ;P.I. CIM-Els Frares SOFOS ENERGIA;;Poligon CIM-Els Frares , Vial A , Nau 5;Lleida;25;Lleida;1207;1;;;;
+Parking MERCOLLEIDA;APARCAMENT PUBLIC;NORMAL;Schuko;41.6192746;0.6368893999999727; 25-1207-002 ;Parking MERCOLLEIDA;;Avinguda Tortosa,4;Lleida;25;Lleida;1207;1;;;;
+RENAULT (AUTANSA 3000);CONCESSIONARI (PRIVAT);NORMAL;Schuko;41.6129;0.6483; 25-1207-003 ;RENAULT (AUTANSA 3000);;Carretera BARCELONA km 464, Carrer de Almeria, 4;Lleida;25;Lleida;1207;3;cotxe;;;
+Hotel MEDITERREAN LODGE L'Ampolla Resort;HOTEL;NORMAL;Schuko;40.8212;0.6887; 43-9060-001 ;Hotel MEDITERRANEAN LODGE L'Ampolla Resort;;Partida Mataret, 155;Tarragona;43;L'Ampolla;9060;1;cotxe i moto;977.05.93.42;24h;
+Restaurant El Molí de Mallol;RESTAURANT;NORMAL;Schuko;41.3793661;1.1631832; 43-0862-001 ;Restaurant El Molí de Mallol;;Carrer  de la Muralla  de Santa Anna, 19;Tarragona;43;Montblanc;0862;1;moto i cotxe;977.86.05.91;Horari Comercial;
+Mission Zero;COMERÇ;NORMAL;Schuko;41.150322524;1.092740585; 43-1233-001 ;Mission Zero;;Camí de Riudoms, 46;Tarragona;43;Reus;1233;1;moto i cotxe;977.318.586;Horari Comercial;
+AMERSAM;VIA PUBLICA;NORMAL;MENNEKES.F+Schuko;41.157893;1.105291; 43-1233-002 ;Area P Plaça Pintor Fortuny;;Plaça Pintor Fortuny;Tarragona;43;Reus;1233;2;cotxe i moto;977.300.006;24h;Cal activar el servei via web
+AMERSAM;VIA PUBLICA;NORMAL;MENNEKES.F+Schuko;41.154717;1.111657; 43-1233-003 ;Area P Riera Miró;;Raval de Sant Pere, 27;Tarragona;43;Reus;1233;2;cotxe i moto;977.300.006;24h;Cal activar el servei via web
+AMERSAM;APARCAMENT PUBLIC;NORMAL;MENNEKES.F+Schuko;41.158966;1.106615; 43-1233-004 ;Parking Llibertat;;Plaça Llibertat;Tarragona;43;Reus;1233;4;cotxe i moto;977.300.006;24h;Cal activar el servei via web
+AMERSAM;APARCAMENT PUBLIC;NORMAL;MENNEKES.F+Schuko;41.152793;1.109020; 43-1233-005 ;Parking Baluard;;Raval Robuster, 47;Tarragona;43;Reus;1233;2;cotxe i moto;977.300.006;24h;Cal activar el servei via web
+AMERSAM;APARCAMENT PUBLIC;NORMAL;MENNEKES.F+Schuko;41.150340;1.110766; 43-1233-006 ;Parking Carrilet;;Avinguda del Carrilet, 40;Tarragona;43;Reus;1233;2;cotxe i moto;977.300.006;24h;Cal activar el servei via web
+AMERSAM;APARCAMENT PUBLIC;NORMAL;MENNEKES.F+Schuko;41.149887;1.105901; 43-1233-007 ;Parking Pastoreta;;Plaça Pastoreta, 10;Tarragona;43;Reus;1233;2;cotxe i moto;977.300.006;24h;Cal activar el servei via web
+AMERSAM;APARCAMENT PUBLIC;NORMAL;MENNEKES.F+Schuko;41.159320;1.102465; 43-1233-008 ;Parking Sant Ferran;;Carrer de Joan Martell, 23;Tarragona;43;Reus;1233;2;cotxe i moto;977.300.006;24h;Cal activar el servei via web
+AMERSAM;APARCAMENT PUBLIC;NORMAL;MENNEKES.F+Schuko;41.155844;1.101972; 43-1233-009 ;Parking Oques;;Passeig de Sunyer, 5;Tarragona;43;Reus;1233;4;cotxe i moto;977.300.006;24h;Cal activar el servei via web
+AMERSAM;APARCAMENT PUBLIC;NORMAL;MENNEKES.F+Schuko;41.153851;1.101613; 43-1233-010 ;Parking Passeig Prim;;Camí de Riudoms, 27;Tarragona;43;Reus;1233;2;cotxe i moto;977.300.006;24h;Cal activar el servei via web
+El Corte Ingles Tarragona;APARCAMENT CC;NORMAL;Schuko;41.121159436;1.242038612; 43-1482-001 ;CC El Corte Ingles (Tarragona);;Avinguda  President LLuis Companys 7-11;Tarragona;43;Tarragona;1482;3;cotxe i moto;;Horari Comercial;
+CC CARREFOUR Tarragona;APARCAMENT CC;NORMAL;Schuko;41.12742844368022;1.2068639695644379; 43-1482-002 ;CC CARREFOUR TARRAGONA;;Carretera de Reus, 57-59, AP-7;Tarragona;43;Tarragona;1482;2;cotxe i moto;;Horari Comercial;
+EMPARK;APARCAMENT PUBLIC;NORMAL ;Schuko;41.118491;1.246252; 43-1482-003 ;Parking EMPARK;;Rambla Nova, 124;Tarragona;43;Tarragona;1482;1;cotxe i moto;;24h;
+RENAULT (AUTOXANDRI);CONCESSIONARI (PRIVAT);semiRAPID i NORMAL;MENNEKES.F+Schuko;41.132584;1.204052; 43-1482-004 ;RENAULT (AUTOXANDRI);;Carrer Josep Maria Folch i Torres, 12, Pol.Ind Les Gavarres;Tarragona;43;Tarragona;1482;2;cotxe i moto;977.050.050;Horari Comercial;
+ALBET i NOYA vinyes;COMERÇ;semiRAPID i NORMAL;MENNEKES.F+Schuko;41.384744;1.806303; 08-2732-002 ;Albet i Noya;;Can Vendrell, s/n, Sant Pau d'Ordal;Barcelona;08;Subirats;2732;2;cotxe i moto;93.899.48.12;Horari Comercial;
+TESLA Hotel Mas la Boella;APARCAMENT HOTEL;superRAPID;TESLA+MENNEKES.F;41.134761;1.169125; 43-9076-001 ;TESLA Supercarregador Tarragona - Hotel Mas la Boella (120kW);;Autovia T-11 sortida 12, La Canonja;Tarragona;43;La Canonja;9076;4;cotxe;977.77.15.15;24h;
+SABA;APARCAMENT PUBLIC;NORMAL;Schuko;41.37764;2.13894; 08-0193-173 ;Saba Aparcament Estació de Sants;;Plaça Joan Peiró;Barcelona;08;Barcelona;0193;2;cotxe i moto;;;
+;;NORMAL;MENNEKES.F+Schuko;41.07451;1.0526; 43-0385-001 ;Ajuntament Cambrils;;Plaça d'Espanya;Tarragona;43;Cambrils;0385;2;cotxe;;;www.cambrils.cat/aparcam
+;;NORMAL;MENNEKES.F+Schuko;41.06488;1.05734; 43-0385-002 ;Ajuntament Cambrils;;Carrer de Robert Gerhard, 4;Tarragona;43;Cambrils;0385;2;moto;;;www.cambrils.cat/aparcam
+;;NORMAL;MENNEKES.F+Schuko;41.06491;1.05732; 43-0385-003 ;Ajuntament Cambrils;;Carrer de Robert Gerhard, 4;Tarragona;43;Cambrils;0385;2;cotxe;;;www.cambrils.cat/aparcam
+;;NORMAL;Schuko;41.7287941;1.8245564; 08-1136- ;Parking La Farola;;Carrer de Canyelles, 5;Barcelona;08;Manresa;1136;2;cotxe i moto;93.873.13.00;;http://www.lafarola.net/parking/
+;;NORMAL;Schuko;41.729438;1.824378; 08-1136- ;Parking Europa;;Carrer Pere III, 55A;Barcelona;08;Manresa;1136;2;cotxe;93.874.84.61;24h;
+;BENZINERA;NORMAL;Schuko;41.448;2.1883; 08-0193- ;Meroil Meridiana;;Avinguda Meridiana, 666;Barcelona;08;Barcelona;0193;1;cotxe i moto;;24h;
+;APARCAMENT PUBLIC;semiRAPID i NORMAL;MENNEKES.F+Schuko;41.501781;2.029948; 08-1846-002 ;Fotolinera Can Serra;;Carrer de Can Serra, 3;Barcelona;08;Rubí;1846;2+2+3;cotxe i moto;;Dll-Dj 7.30-10.30 i Dv 7.30-15h;
+;RESTAURANT;semiRAPID i NORMAL;MENNEKES.F+Schuko+J1772;41.40167;1.75702; 08-2732- ;Restaurant Sol i vi;;Carretera de Sant Sadurní d'Anoia a Vilafranca del Penedès, km 4;Barcelona;08;Subirats;2732;2;cotxe i moto;93.899.32.04;Horari Comercial;
+ENSTO;APARCAMENT PRIVAT;semiRAPID i NORMAL;Tipus3+Schuko;42.24867;2.95637; 16-2214-001 ;ENSTO;;Avinguda Mare de Déu del Mont, 41-43;Girona;16;Vilafant;2214;2;cotxe i moto;972.67.56.40;24h;Cal trucar per confirmar
+Endesa-Cepsa;ESTACIÓ SERVEI;FORA DE SERVEI;CHAdeMO+MENNEKES;41.406040;2.201385; 08-0193-170 ;ES Cepsa-Endesa (50kW);;Carrer de Lope de Vega, 125 ;Barcelona;08;BARCELONA;0193;1;cotxe;;;
+Generalitat de Catalunya;Aparcament Estació;NORMAL;Schuko;41.48402;1.91808;;Intercanviador FGC Martorell;FGCMART;Avinguda Comte de Llobregat - Plaça Joan Serrats;Barcelona;08;MARTORELL;;2;cotxe i moto;;;http://premsa.gencat.cat/pres_fsvp/AppJava/notapremsavw/281799/ca/projecte-pilot-installar-punts-recarrega-vehicles-electrics-estacions-dfgc.do
+Generalitat de Catalunya;Aparcament Estació;NORMAL;Schuko;41.53044;2.08878;;Intercanviador FGC Sant Quirze;FGCSQZE;Carretera de Molins de Rei - Avinguda Països Catalans;Barcelona;08;SANT QUIRZE DEL VALLÈS;;2;cotxe i moto;;;http://premsa.gencat.cat/pres_fsvp/AppJava/notapremsavw/281799/ca/projecte-pilot-installar-punts-recarrega-vehicles-electrics-estacions-dfgc.do
+Area Metropolitana de Barcelona;VIA PUBLICA (AMB);RAPID;CCS Combo2+ChadeMO+Mennekes;41.31814;2.07481;;EdRR El Prat de Llobregat (AMB) (DC50kW AC44kW);AMB2;Plaça de la Volateria-Carrer de Canudas;Barcelona;08;EL PRAT DE LLOBREGAT;;1;cotxe;;24h;http://www.amb.cat/web/mobilitat/planificacio/vehicle-electric/actuacions-metropolitanes
+Area Metropolitana de Barcelona;VIA PUBLICA (AMB);RAPID;CCS Combo2+ChadeMO+Mennekes;41.3532641;2.0897608;;EdRR Cornellà de Llobregat (AMB) (DC50kW AC44kW);AMB3;Carrer de Baltasar Oriol i Mercer-Avinguda de la Porta Diagonal;Barcelona;08;CORNELLÀ DE LLOBREGAT;;1;cotxe;;24h;http://www.amb.cat/web/mobilitat/planificacio/vehicle-electric/actuacions-metropolitanes
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
+;;;;;;;;;;;;;;;;;;
