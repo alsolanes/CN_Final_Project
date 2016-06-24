@@ -1,0 +1,2 @@
+http://nbviewer.ipython.org/github/dataminingapp/dataminingapp-lectures/blob/master/Lecture-17/GraphAnalysis-I.ipynb 
+http://nbviewer.ipython.org/github/dataminingapp/dataminingapp-lectures/blob/master/Lecture-18/GraphAnalysis-II.ipynb
